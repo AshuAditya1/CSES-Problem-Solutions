@@ -1,3 +1,8 @@
+// Problem : Building Teams https://cses.fi/problemset/task/1668/
+// Author : Ashu_Aditya
+// Time Complexity : O(n + m)
+// Space Complexity : O(n + m)
+
 #include<bits/stdc++.h>
 using namespace std;
 
