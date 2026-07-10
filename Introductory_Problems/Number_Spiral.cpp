@@ -1,6 +1,6 @@
 // Problem : Number Spiral https://cses.fi/problemset/task/1071/
 // Author : Ashu_Aditya
-// Time Complexity : O(n)
+// Time Complexity : O(1)
 // Space Complexity : O(1)
 
 #include<bits/stdc++.h>
