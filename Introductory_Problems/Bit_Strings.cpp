@@ -1,6 +1,6 @@
 // Problem : Bit Strings https://cses.fi/problemset/task/1617/
 // Author : Ashu_Aditya
-// Time Complexity : O(1)
+// Time Complexity : O(log(n))
 // Space Complexity : O(1)
 
 #include<bits/stdc++.h>
